@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Gorra",
+    "price": "500",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_829162-MLM50003185771_052022-W.jpg",
+    "id": 1
+  },
+  {
+    "title": "Gorra",
+    "price": "500",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_829162-MLM50003185771_052022-W.jpg",
+    "id": 2
+  }
+]
